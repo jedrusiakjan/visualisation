@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to bottom left,#cf1159,#7902f7,#059be6 );
+    background-attachment: fixed;
+}
+main{
+    align-content: center;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
